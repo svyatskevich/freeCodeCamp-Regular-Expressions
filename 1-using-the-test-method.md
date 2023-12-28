@@ -1,4 +1,4 @@
-# Regular Expressions:
+# Regular Expressions: Using the Test Method
 Apply the regex myRegex on the string myString using the .test() method.
 
 # Solution:
